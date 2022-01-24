@@ -10,6 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkidarmawan21&layout=compact)](https://github.com/rizkidarmawan21)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rizkidarmawan21)](https://github.com/rizkidarmawan21)
 
+
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
