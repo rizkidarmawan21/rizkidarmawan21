@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/rizkidarmawan21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkidarmawan21&show_icons=true&hide_border=true&count_private=true&theme=Gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkidarmawan21&show_icons=true&hide_border=true&count_private=true&themes=Gradient" />
 </a>
 
 
