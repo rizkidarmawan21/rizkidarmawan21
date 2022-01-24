@@ -9,13 +9,10 @@
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://rizal.dev
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/rizalpahlevi/
-[linkedin]: https://www.linkedin.com/in/rizalpahlevii/
+[website]: https://rizkidarmawan21.github.io/
+[instagram]: https://www.instagram.com/rizkidarmawan_21/
+[linkedin]: https://www.linkedin.com/in/rizki-darmawan-51b814220/
