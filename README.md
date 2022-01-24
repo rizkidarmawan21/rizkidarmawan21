@@ -4,10 +4,11 @@
 
 
 <a href="https://github.com/rizkidarmawan21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkidarmawan21&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkidarmawan21&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkidarmawan21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkidarmawan21&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
