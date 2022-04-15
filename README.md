@@ -2,7 +2,7 @@
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rizki Darmawan</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rizkidarmawan21&label=Profile%20views&color=0e75b6&style=flat" alt="rizkidarmawan21" /></p>
 <a align="center" href="https://github.com/rizkidarmawan21">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkidarmawan21&show_icons=true&hide_border=true&count_private=true&themes=Gradient" />
 </a>
