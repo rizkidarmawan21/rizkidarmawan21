@@ -15,17 +15,6 @@ My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT back
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkidarmawan21&layout=compact)](https://github.com/rizkidarmawan21)
 
-
-### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
-<br />
-
-
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> TOOLS AND FRAMEWORKS
 <p align="center">
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
@@ -40,6 +29,16 @@ My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT back
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              
 </p>
+
+### You can find in me in the web 🌍
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
+<br />
+
 
 [website]: https://rizkidarmawan21.github.io/
 [instagram]: https://www.instagram.com/rizkidarmawan_21/
