@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> I'm Rizki Darmawan</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10"> I'm Rizki Darmawan</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 <hr />
 My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT background since the 10th grade of vocational school and am currently studying at the university Dian Nuswantoro Semarang majoring in informatics engineering.
