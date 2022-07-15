@@ -35,6 +35,8 @@ My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT back
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+### Lets read my artikel !!!
+<a align="center" href="https://medium.com/@rizkidarmawan.0402102">Medium</a>
 <br />
 <img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
 <br />
