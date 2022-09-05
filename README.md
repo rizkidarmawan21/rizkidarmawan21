@@ -4,6 +4,9 @@
 <hr />
 My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT background since the 10th grade of vocational school and am currently studying at the university Dian Nuswantoro Semarang majoring in informatics engineering.
 <br />
+### Lets read my artikel !!!
+<a align="center" href="https://medium.com/@rizkidarmawan.0402102">Medium</a>
+<br />
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rizkidarmawan21&label=Profile%20views&color=0e75b6&style=flat" alt="rizkidarmawan21" /></p>
 <a align="center" href="https://github.com/rizkidarmawan21">
@@ -35,9 +38,7 @@ My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT back
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-### Lets read my artikel !!!
-<a align="center" href="https://medium.com/@rizkidarmawan.0402102">Medium</a>
-<br />
+
 <img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
 <br />
 
