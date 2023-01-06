@@ -1,5 +1,5 @@
 <div align="center">
-        <img src="https://rizkidarmawan21.github.io/assets/img/rounded.png" />
+        <img src="https://rizkidarmawan21.github.io/assets/img/rounded.png" width="250" />
 </div>
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"> I'm Rizki Darmawan</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
