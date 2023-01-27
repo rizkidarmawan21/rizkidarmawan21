@@ -5,7 +5,12 @@
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 <hr />
 My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT background since the 10th grade of vocational school and am currently studying at the university Dian Nuswantoro Semarang majoring in informatics engineering.
-<br />
+
+
+
+## PROFILE PREVIEW ✅
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rizkidarmawan21&label=Profile%20views&color=0e75b6&style=flat" alt="rizkidarmawan21" /></p>
+
 
 ## GITHUB STATS 📈
 <p>
