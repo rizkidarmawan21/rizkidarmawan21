@@ -7,34 +7,20 @@
 My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT background since the 10th grade of vocational school and am currently studying at the university Dian Nuswantoro Semarang majoring in informatics engineering.
 <br />
 
-## Lets read my artikel !!!
-<a align="center" href="https://medium.com/@rizkidarmawan.0402102">Medium</a>
-
-<br />
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rizkidarmawan21&label=Profile%20views&color=0e75b6&style=flat" alt="rizkidarmawan21" /></p>
-<a align="center" href="https://github.com/rizkidarmawan21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkidarmawan21&show_icons=true&hide_border=true&count_private=true&themes=Gradient" />
-</a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rizkidarmawan21)](https://github.com/rizkidarmawan21)
+## GITHUB STATS 📈
+<p>
+  <tr>
+    
+<td><img src="https://github-readme-stats.vercel.app/api?username=SyifaAinnur&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaAinnur&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="195"/></td>
+  </tr>
+</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkidarmawan21&layout=compact)](https://github.com/rizkidarmawan21)
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> TOOLS AND FRAMEWORKS
-<p align="center">
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-               <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-               <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-                            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             
+## CODING ACTIVITY 👨🏻‍💻
+[![wakatime](https://wakatime.com/badge/user/fe54cec6-cb75-4d5a-95a9-26fa2c396803.svg)](https://wakatime.com/@fe54cec6-cb75-4d5a-95a9-26fa2c396803)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SyifaAinnur&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
 </p>
 
 ## You can find in me in the web 🌍
