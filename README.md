@@ -11,8 +11,8 @@ My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT back
 <p>
   <tr>
     
-<td><img src="https://github-readme-stats.vercel.app/api?username=SyifaAinnur&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaAinnur&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="195"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=rizkidarmawan21&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkidarmawan21&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="195"/></td>
   </tr>
 </p>
 
@@ -20,7 +20,7 @@ My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT back
 ## CODING ACTIVITY 👨🏻‍💻
 [![wakatime](https://wakatime.com/badge/user/fe54cec6-cb75-4d5a-95a9-26fa2c396803.svg)](https://wakatime.com/@fe54cec6-cb75-4d5a-95a9-26fa2c396803)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SyifaAinnur&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rizkidarmawan21&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
 </p>
 
 ## You can find in me in the web 🌍
