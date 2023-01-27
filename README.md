@@ -10,8 +10,7 @@
 
  </div>
  
-My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT background since the 10th grade of vocational school and am currently studying at the university Dian Nuswantoro Semarang majoring in informatics engineering.
-
+<span style="font-size:40px">My name is Rizki Darmawan, I am a junior full-stack developer. I have an IT background since the 10th grade of vocational school and am currently studying at the university Dian Nuswantoro Semarang majoring in informatics engineering.</span>
 
 
 ## PROFILE PREVIEW ✅
