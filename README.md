@@ -1,4 +1,7 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img width="1147" alt="image" src="https://user-images.githubusercontent.com/80609220/234669319-ef5bd36d-4d5c-43ef-895f-ea26f637ec2a.png"></p>
+
+
+
 <h1 align="center">fmt.println(" Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"> I'm Rizki Darmawan ")     </h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 <hr />
