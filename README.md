@@ -57,7 +57,9 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 <br />
 
-
+## Hey Look my Snake &nbsp;🐍
+<img src="https://user-images.githubusercontent.com/80609220/261098158-d05caf6a-28a3-4b0a-a1df-9d128be6a348.svg">
+<br />
 
 [website]: https://rizkidarmawan21.github.io/
 [instagram]: https://www.instagram.com/rizkidarmawan_21/
