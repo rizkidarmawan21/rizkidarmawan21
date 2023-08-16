@@ -57,8 +57,6 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 <br />
 
-<img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
-<br />
 
 
 [website]: https://rizkidarmawan21.github.io/
