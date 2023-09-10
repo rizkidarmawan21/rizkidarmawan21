@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rizki%20Darmawan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rizkidarmawan21/)](https://www.linkedin.com/in/rizkidarmawan/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rizki%20Darmawan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rizkidarmawan21/)](https://www.linkedin.com/in/rizkidarmawan21/) 
 [![Instagram Badge](https://img.shields.io/badge/-rizkidarmawan21-blue?style=social&logo=Instagram&link=https://www.instagram.com/rizkidarmawan_21/)](https://www.instagram.com/rizkidarmawan_21/) [![GitHub followers](https://img.shields.io/github/followers/rizkidarmawan21?label=Follow&style=social)](https://github.com/rizkidarmawan21/?tab=follow) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizkidarmawan21.visitor-badge)](https://github.com/rizkidarmawan21) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rizkidarmawan21)
 
  </div>
