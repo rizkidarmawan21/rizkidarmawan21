@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, Typescript, Express, React Native**
 
-- 👯 I’m looking to collaborate on **MKID**
+- 👯 I’m looking to collaborate on **DNCC**
 
 - 👨‍💻 All of my projects are available at [https://rizkidarmawan21.github.io](https://rizkidarmawan21.github.io)
 
