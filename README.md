@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Responsive Grids with Tailwind CSS ✨](https://medium.com/@rizkidarmawan.0402102/creating-responsive-grids-with-tailwind-css-154810f944a9?source=rss-db5a7dc5cd6a------2)
 - [Cara ubah menu navbar ke kanan di bootstrap 5.3](https://medium.com/@rizkidarmawan.0402102/cara-ubah-menu-navbar-ke-kanan-di-bootstrap-5-3-6acf72c68418?source=rss-db5a7dc5cd6a------2)
 - [How Add dompdf in laravel 8](https://medium.com/@rizkidarmawan.0402102/how-add-dompdf-in-laravel-8-55369d475126?source=rss-db5a7dc5cd6a------2)
 - [Fitur baru PHP 8.1](https://medium.com/@rizkidarmawan.0402102/fitur-baru-php-8-1-5eea42f919cb?source=rss-db5a7dc5cd6a------2)
 - [Memisah File Log Aplikasi](https://medium.com/@rizkidarmawan.0402102/memisah-file-log-aplikasi-f887bb452c97?source=rss-db5a7dc5cd6a------2)
-- [Cara Menggunakan CURL untuk Melakukan HTTP Request di PHP](https://medium.com/@rizkidarmawan.0402102/cara-menggunakan-curl-untuk-melakukan-http-request-di-php-cb57a6ef4add?source=rss-db5a7dc5cd6a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
