@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rizkidarmawan.0402102](https://medium.com/@rizkidarmawan.0402102)
 
-- 💬 Ask me about **Laravel, React JS & Vue**
-
 - 📫 How to reach me **rizkidarmawan.work@gmail.com**
 
 ### Blogs posts
