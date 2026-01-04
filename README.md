@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rizkidarmawan21.github.io](https://rizkidarmawan21.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/@rizkidarmawan.0402102](https://medium.com/@rizkidarmawan.0402102)
+- 📝 I regularly write articles on [https://medium.com/@rizkidarmawan.0402102](https://medium.com/@darms)
 
 - 📫 How to reach me **rizkidarmawan.work@gmail.com**
 
