@@ -62,14 +62,14 @@
 
 <br/>
 
-<table align="center">
+<table align="">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkidarmawan21&show_icons=true&locale=en&layout=compact" alt="rizkidarmawan21" />
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=rizkidarmawan21&show_icons=true&locale=en" alt="rizkidarmawan21" />
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td colspan="2" align="center">
